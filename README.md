@@ -1,12 +1,9 @@
 # Starter code to create any react app
 
-## To start building your REACT app, you need to install the following packages:
+## To start building your REACT app, you need to install a couple of packages, simply type the following commnad in the terminal: 
 
-`npm i react-scripts`
-`npm i react-dom`
-`npm i react`
-`npm i react-router-dom`
-`npm i react-router`
+`npm i react react-scripts react-router react-dom react-router-dom`
+
 
 ## Then simply clone this repo and run the following command:
 
