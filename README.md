@@ -14,6 +14,6 @@
 
 ## Scripts
 
-## `npm start` - Use this to start running a deployment server.
+ `npm start` - Use this to start running a deployment server.
 
-## Doesn't contain a lot of clutter so you can easily start your build process.
+Doesn't contain a lot of clutter so you can easily start your build process.
